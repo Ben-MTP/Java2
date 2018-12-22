@@ -1,0 +1,17 @@
+1.
+Quan he IS-A trong bieu do gom co:
+Circle(vong tron) - Shape(hinh)
+Rectangle(hinh chu nhat) - Shape(hinh)
+Square(hinh vuong) - Rectangle(hinh chu nhat)
+
+2.
+Lop Circle ke thua Shape ma khong phai Rectangle vi
+Shape chua nhung thuoc tinh ma Circle can co
+Rectangle chua nhung thuoc tinh ma Circle khong can co
+
+3.
+PI can de final vi no la hang so, khong nen thay doi hang so PI
+
+
+
+
